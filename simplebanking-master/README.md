@@ -16,7 +16,7 @@ MODEL
 - Transaction Status: İşlem yapılınca geri dönüş almak için oluşturulmuş “Durum” sınıfıdır.
 - Transaction Type: Yapılan işleme göre işlem ataması için oluşturulmuş sınıftır. (Enum)
 
-`              `“Credit” ,“Debit ” , “Bill” dir.
+“Credit” ,“Debit ” , “Bill” dir.
 
 - Model katmanında “AccountNotFoundException” ve “InsufficientBalanceException” olarak iki adet HATA sınıfı oluşturulmuştur.
 
